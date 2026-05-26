@@ -1,0 +1,1 @@
+function show(){var nav=document.getElementById("nav");if(nav.className=="pull-right nav-collapse collapse hidenav"){nav.className="pull-right nav-collapse collapse"}else{nav.className="pull-right nav-collapse collapse hidenav"}};
